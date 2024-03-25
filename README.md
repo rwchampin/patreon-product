@@ -31,18 +31,17 @@ Provide a detailed description of the animation/scene/product here. Include what
 
 ## Links
 
-- [My Portfolio](https://yourwebsite.com)
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourtwitter)
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [YouTube](https://www.youtube.com/@ryanthedeveloper)
+- [My Portfolio](https://www.ryanthedeveloper.com)
+- [Instagram](https://www.instagram.com/ryan_the_developer/)
+- [Twitter](https://twitter.com/ryan_the_dev)
+- [Facebook](https://www.facebook.com/ryanthedeveloper)
+- [Dribbble](https://dribbble.com/ryan_the_developer)
 
 ## Contact
 
-For any inquiries, please reach out to me via email at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or customer commissions, please reach out to me via email at [me@ryanthdeveloper.com](mailto:me@ryanthdeveloper.com).
 
 ## Additional Information
 
 Feel free to modify and customize the animation/scene as needed for your project. If you encounter any issues or have suggestions for improvements, please consider submitting an issue or pull request on GitHub.
-
----
-> Note: This template is designed to be a starting point. Adjust and expand it based on the specific needs and features of your animations/scenes.
