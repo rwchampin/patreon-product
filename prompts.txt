@@ -1,0 +1,10 @@
+Create Title & Description Prompt
+
+create a creative, unique title and description for this three.js animation. 
+it is a 3d three.js javascript animation that i sell on my online store.  
+make the title and description enticing to customers so they will buy my product. If there are beautiful colors in the scene,
+use a attractive color in the title.
+
+
+Specs & Installation & Includes
+Write me a 1. detailed list of installation instructions, 2. technical requirements to run the code.  Analyze the provided code. 3. a List of included files
