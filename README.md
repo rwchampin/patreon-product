@@ -1,5 +1,5 @@
                                                       
-![Alt text](https://ryanthedevloper-storage.nyc3.cdn.digitaloceanspaces.com/logo/logo.png?raw=true "Ryan The Developer Logo")
+![Alt text](https://ryanthedevloper-storage.nyc3.cdn.digitaloceanspaces.com/logo/logo-grey.svg?raw=true "Ryan The Developer Logo")
 
 # [Animation/Project/Product Name]
 
